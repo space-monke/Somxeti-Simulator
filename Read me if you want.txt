@@ -6,7 +6,7 @@ Protecc Hayastan from infidels using your advanced jet technology and blast "God
 
 -v0.9 base game done
 
--v0.91 now with adjustable volume and vfx!
+-v0.91 now with adjustable volume and vfx! (Volume doesnt wanna work for some reason, ill fix it tomorrow, or someday)
  __  __  ___  _  _ _  _____ 
 |  \/  |/ _ \| \| | |/ / __|
 | |\/| | (_) | .` | ' <| _| 
