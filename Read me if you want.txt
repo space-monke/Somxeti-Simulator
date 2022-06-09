@@ -1,6 +1,12 @@
 Somxeti Simulator: Made By Monke
 
 Protecc Hayastan from infidels using your advanced jet technology and blast "God Syria and Bashar" at full volume while you're at it.
+
+//Changelog
+
+-v0.9 base game done
+
+-v0.91 now with adjustable volume and vfx!
  __  __  ___  _  _ _  _____ 
 |  \/  |/ _ \| \| | |/ / __|
 | |\/| | (_) | .` | ' <| _| 
