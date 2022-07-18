@@ -8,6 +8,8 @@ Protecc Hayastan from infidels using your advanced jet technology and blast "God
 
 -v0.91 now with adjustable volume and vfx!
 	-v0.911 fixed volume bug
+
+-v0.922 now with a proper settings screen and improved overall (more gameplay to come...)
  __  __  ___  _  _ _  _____ 
 |  \/  |/ _ \| \| | |/ / __|
 | |\/| | (_) | .` | ' <| _| 
